@@ -60,6 +60,13 @@ Here, we have performed both HBOS and LOF for a comparative analysis.
 
 ###### How did we prepare it for training?
 
+1. Filtered columns like GEO_AS_(#), GEO_CITY_(#), GEO_LAT_(#), the time columns, etc. by combining/combining them for columns with useful values. Eg. Eliminated the city, country, region, etc. based on if it matches with IP address, latitude and longitude.
+2. Divided motion and orientation columns into 3 parts (x, y, z).
+3. Added isMotionTrue and difference_time columns.
+4. Extracted columns for Android version and Phone model from appVersion column.
+5. Eliminated the redundant columns.
+6. Categorized the remaining columns into Features and TVs. 
+7. Eliminated rows with >10 NaN values.
 
 ### Where is our data from?
 
