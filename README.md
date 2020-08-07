@@ -57,9 +57,9 @@ Here, we have performed both HBOS and LOF for a comparative analysis.
 
 
 
-### Where is our data from?
 
-![Data_country](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA.png)
+
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA.png)
 
 ### Heatmap - Correlation between features
 
