@@ -1,5 +1,5 @@
 ## UNSTRUCTURED DATA ANALYSIS
-#### UNFORTUNATELY WE CAN'T SHARE DATASET DUE TO COMPANY'S POLICIES.
+##### Unfortunately we can't share dataset due to company's policy.
 ```
 ANALYSIS BY -
 ```
