@@ -85,42 +85,61 @@ up with a good insight from it. These are the few plots we drew -
 7. Analyzing features ,TV with outliers to obtain visual and workable results
 
 
+
+
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(4).png)
+
+
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(5).png)
 
+
+
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(6).png)
+
+
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(7).png)
 
+
+
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(8).png)
+
+
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(9).png)
 
+
+
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(10).png)
+
+
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(11).png)
 
+
+
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(12).png)
+
+
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(13).png)
 
+
+
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(14).png)
+
+
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(15).png)
 
+
+
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(16).png)
 
+
+
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(17).png)
-
-
-
-
-
-
-
-
-
 
 
 
@@ -149,16 +168,19 @@ ensuring good bots aren't blocked when putting together a bot management strateg
     **bad bot/user.
 4. List out countries, devices and provider that have been used by said bots.**
 
-_Countries and their frequency of bad bots:_
+### _Countries and their frequency of bad bots:_
 
 'Brazil': 18, 'India': 7, 'Hong Kong': 1, 'Malaysia': 1, 'Panama': 1, 'Japan': 1, 'Singapore': 1, 'United States': 1'Taiwan': 6, 'Colombia': 4, 'Canada': 3, 'Chile': 3, 'Mexico': 3, 'Others': 2, 'Australia': 2, 'Philippines': 1, 'South Africa': 1,
 
-(^) _Service providers and their frequency of bad bots:_
+### (^) _Service providers and their frequency of bad bots:_
 'Taiwan Mobile': 1, 'Mobile Business': 1, 'Philippine Long': 1, 'Telstra Corporation': 1, 'COMCEL S.A.': 1, 'Others': 8, 'TELEFÃƒâ€œNICA, CHILE': 1,
 'DiGi Telecommunications': 1, 'Reliance Jio': 1, 'TELEFÃƒâ€\x9dNICA BRASIL': 1, 'CLARO S.A.': 1, 'Tim Celular': 1, 'CentennialCayman': 1, 'Data
 Communication': 1, 'Colombia MÃƒÂ³vil': 1, 'TPG Telecom': 1, 'Vodafone India': 1, 'CLARO CHILE': 1, 'TOTALPLAY': 1, 'Uninet S.A.': 1, 'Far
 EastTone': 1, 'Cable Onda': 1, 'Telmex Colombia': 1, 'Brasil Telecom': 1, 'Bharti Airtel': 1, 'Mega Cable,':1, 'Bell Canada': 1, 'Telemar Norte': 1
-_Devices and their frequency of bad bots:_
+
+
+
+### _Devices and their frequency of bad bots:_
 'SM': 1, 'Others': 2, 'INE': 1, 'ANE': 1, 'ONEPLUS': 1, 'MI': 1, 'vivo': 1, 'moto': 1, 'ASUS': 1, 'G8142': 1, 'JSN': 1, 'Redmi': 1, 'Pixel': 1, 'MAR': 1,'Moto': 1, 'LG': 1, 'HTC': 1, 'motorola': 1, 'LM': 1, 'Mi': 1
 
 
