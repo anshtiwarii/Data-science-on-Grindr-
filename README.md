@@ -55,20 +55,20 @@ Here, we have performed both HBOS and LOF for a comparative analysis.
 
 
 
-
+```
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA.png)
-
+```
 As you can see, the peaks on the graph show that Most of our data is from Countries like Brazil, India, Taiwan etc which means that we can expect more bad bots from these states, as will be explained ahead
-
+```
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(1).png)
 The graph on the left tells us the magnitude of correlation between the features, while the right graph is the standard plot. According to this graph, we removed the features that had low correlation.
-
+```
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(2).png)
 
-
+```
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(3).png)
-
+```
 ### Performing EDA
 
 We started to plot data by taking different columns together and tried to come
@@ -84,48 +84,48 @@ up with a good insight from it. These are the few plots we drew -
 
 
 
-
+```
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(4).png)
-
+```
 
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(5).png)
-
+```
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(6).png)
 
-
+```
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(7).png)
 
-
+```
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(8).png)
 
 
-
+```
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(9).png)
-
+```
 ##### This concludes that in common lower android version i.e 4 & 5 has more outliers as compared to higher android versions.
-
+```
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(10).png)
-
+```
 ##### This concludes that in common IDEA CELLULAR has more outliers.
-
+```
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(11).png)
-
+```
 
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(12).png)
-
+```
 
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(13).png)
-
+```
 
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(14).png)
-
+```
 
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(15).png)
@@ -133,11 +133,11 @@ up with a good insight from it. These are the few plots we drew -
 
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(16).png)
-
+```
 
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(17).png)
-
+```
 
 
 ### Bad bots vs good bots
