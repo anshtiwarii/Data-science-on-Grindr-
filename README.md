@@ -61,29 +61,15 @@ Here, we have performed both HBOS and LOF for a comparative analysis.
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA.png)
 
-### Heatmap - Correlation between features
+As you can see, the peaks on the graph show that Most of our data is from Countries like Brazil, India, Taiwan etc which means that we can expect more bad bots from these states, as will be explained ahead
+
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(1).png)
+The graph on the left tells us the magnitude of correlation between the features, while the right graph is the standard plot. According to this graph, we removed the features that had low correlation.
+
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(2).png)
 
 
-### Anomaly Detection
-
-We had applied both LOF and HBOS on this dataset.
-
-Let's have a comparison of both algorithms and understand
-
-```
-LOF HBOS
-n_neighbors / n_bins 20 20
-Number of outliers 2846 4105
-Accuracy Better than HBOS -
-Detection Local Global
-Speed - Better than LOF
-```
-
-### Understand it better with PCA PLOT
-
-```
-Local Outlier Factor Histogram Based Outlier Scores
-```
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(3).png)
 
 ### Performing EDA
 
@@ -99,57 +85,43 @@ up with a good insight from it. These are the few plots we drew -
 7. Analyzing features ,TV with outliers to obtain visual and workable results
 
 
-### 1. Heatmap - Day of the week vs Hour of the day
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(4).png)
 
-```
-Local Outlier Factor
-```
-```
-Histogram Based Outlier
-Scores
-```
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(5).png)
 
-### 2. Service Provider vs Memory Comparison
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(6).png)
 
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(7).png)
 
-### 3. Android Version vs Service Providers
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(8).png)
 
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(9).png)
 
-### 4. Android Version vs Labels
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(10).png)
 
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(11).png)
 
-### 5. Service Provider vs Labels
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(12).png)
 
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(13).png)
 
-###### Percentage outlier for ANDROID VERSION
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(14).png)
 
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(15).png)
 
-#### Percentage outlier for service providers
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(16).png)
 
-
-##### True and false callbacks on map - lof
+![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(17).png)
 
 
-##### True and false callbacks on map - hbos
 
 
-##### Start time v/s unload_ms v/s label
 
 
-##### Country v/s duration of ad v/s label
 
 
-##### Country v/s
-
-##### models v/s
-
-##### label
 
 
-##### Country v/s provider v/s label - lof
-
-
-##### Country v/s provider v/s label - hbos
 
 
 ### Bad bots vs good bots
