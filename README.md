@@ -94,7 +94,6 @@ up with a good insight from it. These are the few plots we drew -
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(5).png)
 
 
-
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(6).png)
 
 
@@ -109,11 +108,11 @@ up with a good insight from it. These are the few plots we drew -
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(9).png)
 
-
+##### This concludes that in common lower android version i.e 4 & 5 has more outliers as compared to higher android versions.
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(10).png)
 
-
+##### This concludes that in common IDEA CELLULAR has more outliers.
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(11).png)
 
@@ -172,7 +171,7 @@ ensuring good bots aren't blocked when putting together a bot management strateg
 
 'Brazil': 18, 'India': 7, 'Hong Kong': 1, 'Malaysia': 1, 'Panama': 1, 'Japan': 1, 'Singapore': 1, 'United States': 1'Taiwan': 6, 'Colombia': 4, 'Canada': 3, 'Chile': 3, 'Mexico': 3, 'Others': 2, 'Australia': 2, 'Philippines': 1, 'South Africa': 1,
 
-### (^) _Service providers and their frequency of bad bots:_
+### _Service providers and their frequency of bad bots:_
 'Taiwan Mobile': 1, 'Mobile Business': 1, 'Philippine Long': 1, 'Telstra Corporation': 1, 'COMCEL S.A.': 1, 'Others': 8, 'TELEFÃƒâ€œNICA, CHILE': 1,
 'DiGi Telecommunications': 1, 'Reliance Jio': 1, 'TELEFÃƒâ€\x9dNICA BRASIL': 1, 'CLARO S.A.': 1, 'Tim Celular': 1, 'CentennialCayman': 1, 'Data
 Communication': 1, 'Colombia MÃƒÂ³vil': 1, 'TPG Telecom': 1, 'Vodafone India': 1, 'CLARO CHILE': 1, 'TOTALPLAY': 1, 'Uninet S.A.': 1, 'Far
