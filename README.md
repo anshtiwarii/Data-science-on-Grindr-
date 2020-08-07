@@ -1,14 +1,12 @@
 ## UNSTRUCTURED DATA ANALYSIS
 ##### Unfortunately we can't share dataset due to company's policy.
-```
-ANALYSIS BY -
-```
-```
-Raloue R Kapoor
-Akshiti Parashar
-Ansh Tiwari
-Srihari Ananthan
-```
+
+### ANALYSIS BY -
+1. Raloue R Kapoor
+2. Akshiti Parashar
+3. Ansh Tiwari
+4. Srihari Ananthan
+
 
 # INDEX
 
