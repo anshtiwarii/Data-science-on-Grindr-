@@ -179,4 +179,4 @@ EastTone': 1, 'Cable Onda': 1, 'Telmex Colombia': 1, 'Brasil Telecom': 1, 'Bhart
 ### _Devices and their frequency of bad bots:_
 'SM': 1, 'Others': 2, 'INE': 1, 'ANE': 1, 'ONEPLUS': 1, 'MI': 1, 'vivo': 1, 'moto': 1, 'ASUS': 1, 'G8142': 1, 'JSN': 1, 'Redmi': 1, 'Pixel': 1, 'MAR': 1,'Moto': 1, 'LG': 1, 'HTC': 1, 'motorola': 1, 'LM': 1, 'Mi': 1
 
-#### Unfortunately we can't share dataset due to company's policy.
+#### Unfortunately we can't share dataset due to company's copyright policy.
