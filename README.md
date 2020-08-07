@@ -41,7 +41,7 @@ Here, we have performed both HBOS and LOF for a comparative analysis.
 
 
 ### DATA CLEANING
-
+###### How did we prepare it for training?
 1. Filtered columns like GEO_AS_(#), GEO_CITY_(#), GEO_LAT_(#), the time
     columns, etc. by combining/combining them for columns with useful
     values. Eg. Eliminated the city, country, region, etc. based on if it matches
@@ -54,12 +54,13 @@ Here, we have performed both HBOS and LOF for a comparative analysis.
 6. Categorized the remaining columns into Features and TVs.
 7. Eliminated rows with >10 NaN values.
 
-###### How did we prepare it for training?
+
 
 
 ### Where is our data from?
 
-
+![](/Plots/UNSTRUCTURED DATA.png)
+Format: ![Alt Text](url)
 ### Heatmap - Correlation between features
 
 
