@@ -59,10 +59,10 @@ Here, we have performed both HBOS and LOF for a comparative analysis.
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA.png)
 
-As you can see, the peaks on the graph show that Most of our data is from Countries like Brazil, India, Taiwan etc which means that we can expect more bad bots from these states, as will be explained ahead
+#### As you can see, the peaks on the graph show that Most of our data is from Countries like Brazil, India, Taiwan etc which means that we can expect more bad bots from these states, as will be explained ahead
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(1).png)
-The graph on the left tells us the magnitude of correlation between the features, while the right graph is the standard plot. According to this graph, we removed the features that had low correlation.
+#### The graph on the left tells us the magnitude of correlation between the features, while the right graph is the standard plot. According to this graph, we removed the features that had low correlation.
 
 ![](https://github.com/anshtiwarii/Unstructured-Data-Analysis/blob/master/Plots/UNSTRUCTURED%20DATA%20(2).png)
 
