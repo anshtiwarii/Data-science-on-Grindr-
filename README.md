@@ -1,7 +1,3 @@
-# Unstructured Data Analysis on Grindr App
-Grindr is the world's largest location-based social networking app for gay, bi, trans, and queer people.
-
-
 ## UNSTRUCTURED DATA ANALYSIS
 
 ```
@@ -60,13 +56,6 @@ Here, we have performed both HBOS and LOF for a comparative analysis.
 
 ###### How did we prepare it for training?
 
-1. Filtered columns like GEO_AS_(#), GEO_CITY_(#), GEO_LAT_(#), the time columns, etc. by combining/combining them for columns with useful values. Eg. Eliminated the city, country, region, etc. based on if it matches with IP address, latitude and longitude.
-2. Divided motion and orientation columns into 3 parts (x, y, z).
-3. Added isMotionTrue and difference_time columns.
-4. Extracted columns for Android version and Phone model from appVersion column.
-5. Eliminated the redundant columns.
-6. Categorized the remaining columns into Features and TVs. 
-7. Eliminated rows with >10 NaN values.
 
 ### Where is our data from?
 
@@ -198,6 +187,5 @@ Communication': 1, 'Colombia MÃƒÂ³vil': 1, 'TPG Telecom': 1, 'Vodafone India
 EastTone': 1, 'Cable Onda': 1, 'Telmex Colombia': 1, 'Brasil Telecom': 1, 'Bharti Airtel': 1, 'Mega Cable,':1, 'Bell Canada': 1, 'Telemar Norte': 1
 _Devices and their frequency of bad bots:_
 'SM': 1, 'Others': 2, 'INE': 1, 'ANE': 1, 'ONEPLUS': 1, 'MI': 1, 'vivo': 1, 'moto': 1, 'ASUS': 1, 'G8142': 1, 'JSN': 1, 'Redmi': 1, 'Pixel': 1, 'MAR': 1,'Moto': 1, 'LG': 1, 'HTC': 1, 'motorola': 1, 'LM': 1, 'Mi': 1
-
 
 
